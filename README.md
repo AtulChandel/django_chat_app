@@ -4,3 +4,6 @@ django_chat_app is a simple chat server.It has two pages:
    --> A room view that lets you see messages posted in a particular chat room.
    
 The room view uses a WebSocket to communicate with the Django server and listen for any messages that are posted.
+
+
+Credits to : https://channels.readthedocs.io/en/latest/tutorial/part_1.html
