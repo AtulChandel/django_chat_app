@@ -10,7 +10,7 @@ channels-redis==2.4.0
 colorama==0.4.1
 constantly==15.1.0
 daphne==2.3.0
-Django==2.2.2
+Django==2.2.18
 hiredis==1.0.0
 hyperlink==19.0.0
 idna==2.8
