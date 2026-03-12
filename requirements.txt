@@ -23,7 +23,7 @@ PyHamcrest==1.9.0
 pylint==2.3.1
 pypiwin32==223
 pytz==2019.1
-pywin32==224
+pywin32==301
 six==1.12.0
 sqlparse==0.3.0
 Twisted==22.10.0
